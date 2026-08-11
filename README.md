@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ydvyashva/CODEX/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ydvyashva/CODEX/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ydvyashva/CODEX/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ydvyashva/CODEX/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ydvyashva/CODEX/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/ydvyashva/CODEX/tree/master/0704-binary-search) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ydvyashva/CODEX/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ydvyashva/CODEX/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ydvyashva/CODEX/tree/master/1757-recyclable-and-low-fat-products) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ydvyashva/CODEX/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
