@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ydvyashva/CODEX/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/ydvyashva/CODEX/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
@@ -252,4 +253,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ydvyashva/CODEX/tree/master/0852-peak-index-in-a-mountain-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
