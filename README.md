@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ydvyashva/CODEX/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
