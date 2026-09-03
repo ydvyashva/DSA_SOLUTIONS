@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/ydvyashva/CODEX/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
