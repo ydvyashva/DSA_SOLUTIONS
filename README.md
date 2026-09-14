@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/ydvyashva/CODEX/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/ydvyashva/CODEX/tree/master/1768-merge-strings-alternately) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/ydvyashva/CODEX/tree/master/1768-merge-strings-alternately) |
