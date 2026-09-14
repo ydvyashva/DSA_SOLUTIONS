@@ -4,13 +4,11 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        if sentence[0] != sentence[-1]:
-            return False
+        words = sentence.split()
 
-        for i in range(len(sentence)):
-            if sentence[i] == ' ':
-                if sentence[i-1] != sentence[i+1]:
-                    return False
+        for i in range(len(words)):
+            if words[i-1][-1]!= words[i][0]:
+                return False
         return True                
 
 
