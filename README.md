@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/ydvyashva/CODEX/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ydvyashva/CODEX/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
