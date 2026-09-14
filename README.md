@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ydvyashva/CODEX/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/ydvyashva/CODEX/tree/master/0704-binary-search) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ydvyashva/CODEX/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,4 +317,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
