@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/ydvyashva/CODEX/tree/master/1108-defanging-an-ip-address) |
+| [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/ydvyashva/CODEX/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
+| [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/ydvyashva/CODEX/tree/master/1406-stone-game-iii) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 ## Binary Search
 |  |
 | ------- |
