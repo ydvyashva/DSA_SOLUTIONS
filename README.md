@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ydvyashva/CODEX/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ydvyashva/CODEX/tree/master/0151-reverse-words-in-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/ydvyashva/CODEX/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ydvyashva/CODEX/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
@@ -350,5 +352,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
