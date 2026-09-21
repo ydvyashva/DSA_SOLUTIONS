@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0386-lexicographical-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/ydvyashva/CODEX/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ydvyashva/CODEX/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
