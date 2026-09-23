@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ydvyashva/CODEX/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ydvyashva/CODEX/tree/master/0119-pascals-triangle-ii) |
+| [0134-gas-station](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ydvyashva/CODEX/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ydvyashva/CODEX/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0134-gas-station) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
