@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ydvyashva/CODEX/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ydvyashva/CODEX/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [2685-count-the-number-of-complete-components](https://github.com/ydvyashva/CODEX/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ydvyashva/CODEX/tree/master/3310-remove-methods-from-project) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/ydvyashva/CODEX/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ydvyashva/CODEX/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ydvyashva/CODEX/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ydvyashva/CODEX/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/ydvyashva/CODEX/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/ydvyashva/CODEX/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
