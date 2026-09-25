@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0061-rotate-list) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ydvyashva/CODEX/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ydvyashva/CODEX/tree/master/0189-rotate-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0143-reorder-list) |
