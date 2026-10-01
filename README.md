@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/ydvyashva/CODEX/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ydvyashva/CODEX/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1406-stone-game-iii](https://github.com/ydvyashva/CODEX/tree/master/1406-stone-game-iii) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0037-sudoku-solver) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
