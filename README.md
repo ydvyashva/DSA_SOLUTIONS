@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/ydvyashva/CODEX/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ydvyashva/CODEX/tree/master/0119-pascals-triangle-ii) |
+| [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ydvyashva/CODEX/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/ydvyashva/CODEX/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/ydvyashva/CODEX/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
