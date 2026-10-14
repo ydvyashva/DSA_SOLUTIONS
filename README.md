@@ -158,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/ydvyashva/CODEX/tree/master/2685-count-the-number-of-complete-components) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
