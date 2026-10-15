@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ydvyashva/CODEX/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
