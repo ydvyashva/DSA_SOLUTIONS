@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ydvyashva/CODEX/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ydvyashva/CODEX/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
@@ -431,11 +433,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
