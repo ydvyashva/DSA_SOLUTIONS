@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ydvyashva/CODEX/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## String
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvyashva/CODEX/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -460,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
