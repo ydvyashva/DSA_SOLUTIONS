@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvyashva/CODEX/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/ydvyashva/CODEX/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
