@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ydvyashva/CODEX/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ydvyashva/CODEX/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/ydvyashva/CODEX/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ydvyashva/CODEX/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 ## Recursion
 |  |
