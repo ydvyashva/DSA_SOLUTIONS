@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ydvyashva/CODEX/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1108-defanging-an-ip-address](https://github.com/ydvyashva/CODEX/tree/master/1108-defanging-an-ip-address) |
 | [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ydvyashva/CODEX/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ydvyashva/CODEX/tree/master/0877-stone-game) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ydvyashva/CODEX/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1406-stone-game-iii](https://github.com/ydvyashva/CODEX/tree/master/1406-stone-game-iii) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
