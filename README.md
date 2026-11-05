@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
 | [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ydvyashva/CODEX/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/ydvyashva/CODEX/tree/master/1406-stone-game-iii) |
 | [1528-shuffle-string](https://github.com/ydvyashva/CODEX/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/ydvyashva/CODEX/tree/master/0962-maximum-width-ramp) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ydvyashva/CODEX/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ydvyashva/CODEX/tree/master/2000-reverse-prefix-of-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1366-rank-teams-by-votes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ydvyashva/CODEX/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ydvyashva/CODEX/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ydvyashva/CODEX/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ydvyashva/CODEX/tree/master/3534-path-existence-queries-in-a-graph-ii) |
