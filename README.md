@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ydvyashva/CODEX/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ydvyashva/CODEX/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvyashva/CODEX/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/ydvyashva/CODEX/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ydvyashva/CODEX/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/ydvyashva/DSA_SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ydvyashva/CODEX/tree/master/0867-transpose-matrix) |
 ## Greedy
